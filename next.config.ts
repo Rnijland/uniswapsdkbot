@@ -10,11 +10,8 @@ const nextConfig = {
     };
     return config;
   },
-  // Enable the experimental appDir feature for app router
-  experimental: {
-    appDir: true,
-    serverComponentsExternalPackages: ['fs', 'path']
-  },
+  // Server components external packages
+  serverExternalPackages: ['fs', 'path'],
   env: {
     PROJECT_ROOT: process.cwd(),
   },
