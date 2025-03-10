@@ -1,0 +1,20 @@
+{
+  "RoyWallet": {
+    "address": "0xa427C61bf6E709098627768F1b866A98d5d5cB17",
+    "privateKey": "0x1b7f27e939fa17d208fe4f0b81511935b936a5dacd6f0e2aa5a22f13ac25aa90",
+    "mnemonic": "barrel capital farm mosquito paddle olympic crane hole volume shiver tape east",
+    "createdAt": "2025-03-10T12:08:26.669Z"
+  },
+  "Acewallet": {
+    "address": "0x1483e30214CC527cC94534b85852a86395e61810",
+    "privateKey": "0x3f6a7f4835acbe2e10ec119fa33beb17d42e49530cacbdc04339c2dd2a5b113d",
+    "mnemonic": "minute poverty fat wagon cause also cat medal cannon finish flee purchase",
+    "createdAt": "2025-03-10T12:16:58.359Z"
+  },
+  "Ritchiewallet": {
+    "address": "0xbD1B770C319b263fa8aaB708f0B17d8085FF1c32",
+    "privateKey": "0x06b5adac3110aa7ec6c16940b28ae5d29b8fbf3107aafe49e9a864e80b8d2775",
+    "mnemonic": "text spike evolve polar shy season donate margin script pact grunt flash",
+    "createdAt": "2025-03-10T12:20:30.621Z"
+  }
+}
